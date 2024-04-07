@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**olevit/olevit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a passionate freelance mobile React Native (Firebase) Full-Stack developer with experience in building mobile apps for small and medium-sized businesses.
 
 I am a passionate freelance mobile React Native (Firebase) Full-Stack developer with experience in building mobile apps for small and medium-sized businesses. 
 I'm highly skilled in JavaScript and have a deep understanding of React Native's architecture and core concepts. 
@@ -22,4 +19,3 @@ Let's build something great together!
 - 📫 My contacts: 
    Email: olevist@gmail.com
    Upwork Profile: https://www.upwork.com/freelancers/viktoriiao3
--->
